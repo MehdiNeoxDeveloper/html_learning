@@ -29,14 +29,14 @@ body {
 
 /* آواتار با عکس */
 .avatar-img {
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #7c5cff;
+    border: 3px solid #ff7b00;
     margin: 0 auto 20px;
     display: block;
-    box-shadow: 0 0 20px rgba(124, 92, 255, 0.4);
+    box-shadow: 0 0 25px rgba(255, 123, 0, 0.5);
 }
 
 /* آواتار حروفی (اگه عکس نداشتی) */
